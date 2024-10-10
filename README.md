@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>T.C. Nufus İşleri GM'ye ilişkin Adres Kayit Sistemi Otomasyonu</h1>
+  <h1>Açık Kaynak Adres Kayit Sistemi Verileri</h1>
 </div>
 <p align="center">
  Adres verilerinin tek merkezden standartlara uygun bir şekilde yönetilmesi ve paylaşılması hedeflenen projedir.
