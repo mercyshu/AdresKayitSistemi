@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Açık Kaynak Adres Kayit Sistemi Verileri</h1>
 </div>
-<p align="center">
+<p align="center"> 
  Adres verilerinin tek merkezden standartlara uygun bir şekilde yönetilmesi ve paylaşılması hedeflenen projedir.
 </p>
 
